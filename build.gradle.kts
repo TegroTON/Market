@@ -134,7 +134,7 @@ kotlin {
                 dependsOn(commonMain)
 
                 // Framework
-                implementation("dev.fritz2:core:1.0-RC1")
+                implementation("dev.fritz2:core:1.0-RC12")
 
                 implementation("io.ktor:ktor-client-core:$ktorVersion")
                 implementation("io.ktor:ktor-client-content-negotiation:$ktorVersion")
