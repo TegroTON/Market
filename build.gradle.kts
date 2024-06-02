@@ -102,7 +102,7 @@ kotlin {
                 implementation("org.kodein.di:kodein-di-framework-ktor-server-jvm:$kodeinVersion")
                 implementation("org.kodein.di:kodein-di-framework-ktor-server-controller-jvm:$kodeinVersion")
 
-                runtimeOnly("org.slf4j:slf4j-simple:2.0.3")
+                runtimeOnly("org.slf4j:slf4j-simple:2.0.9")
 
                 // Ton
                 implementation("org.ton:ton-kotlin:0.1.1")
