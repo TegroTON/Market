@@ -83,7 +83,7 @@ kotlin {
                 implementation("com.ionspin.kotlin:bignum:0.3.7")
 
                 // Time
-                implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.4.0")
+                implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.4.1")
 
                 // Ktor
                 implementation("io.ktor:ktor-client-core:$ktorVersion")
