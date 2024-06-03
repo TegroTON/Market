@@ -17,7 +17,7 @@ repositories {
 
 dependencies {
     implementation("io.ktor:ktor-server-call-logging-jvm:2.1.2")
-    implementation("io.ktor:ktor-server-call-id-jvm:2.1.2")
+    implementation("io.ktor:ktor-server-call-id-jvm:2.3.6")
     implementation("io.ktor:ktor-server-cors-jvm:2.1.2")
     implementation("io.ktor:ktor-server-core-jvm:2.1.2")
     implementation("io.ktor:ktor-server-host-common-jvm:2.1.2")
