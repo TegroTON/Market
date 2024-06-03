@@ -140,7 +140,7 @@ kotlin {
                 implementation("io.ktor:ktor-client-content-negotiation:$ktorVersion")
                 implementation("io.ktor:ktor-client-js:$ktorVersion")
 
-                implementation("org.jetbrains.kotlin-wrappers:kotlin-extensions:1.0.1-pre.399")
+                implementation("org.jetbrains.kotlin-wrappers:kotlin-extensions:1.0.1-pre.653")
 
                 // Tailwindcss and loaders
                 implementation(npm("tailwindcss", "3.1.8"))
